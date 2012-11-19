@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": 1353342831,
+	"installed_packages":
+	[
+		"CodeIgniter Snippets",
+		"Console API Snippets (JavaScript)",
+		"Gist",
+		"Git",
+		"JsMinifier",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Pandoc (Markdown)",
+		"Prefixr",
+		"Search Stack Overflow",
+		"SublimeCodeIntel",
+		"Surround",
+		"Tag",
+		"zenburn"
+	]
+}

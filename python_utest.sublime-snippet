@@ -1,0 +1,13 @@
+<snippet>
+    <tabTrigger>utest</tabTrigger>
+    <scope>source.python</scope>
+    <description>Init unit testing</description>
+    <content><![CDATA[import unittest
+
+class ${1:TestClass}(unittest.TestCase):
+	def ${2:testSomething}(self):
+		self.assertTrue(True)
+
+if __name__ == '__main__':
+	unittest.main()]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>#</tabTrigger>
+    <scope>source.python</scope>
+    <description>Sample</description>
+    <content><![CDATA[#!/usr/bin/env python
+# -*- coding: utf-8 -*-]]></content>
+</snippet>
