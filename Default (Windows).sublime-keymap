@@ -1,3 +1,6 @@
 [
-	{ "keys": ["ctrl+shift+l"], "command": "first" }
+	{ "keys": ["ctrl+shift+l"], "command": "first" },
+	{ "keys": ["ctrl+,"], "command": "escape" },
+	{ "keys": ["ctrl+."], "command": "unescape" }
 ]
+
